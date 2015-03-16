@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resume xmlns="http://www.helloyou.fr">
+  <lastname>string</lastname>
+  <firstname>Julien</firstname>
+  <goal>string</goal>
+  <xp>
+    <company>string</company>
+    <position>string</position>
+    <description>string</description>
+    <startdate>2008-09-29</startdate>
+    <enddate>2014-09-19</enddate>
+  </xp>
+  <academic>
+    <school>string</school>
+    <description>string</description>
+    <year>100</year>
+  </academic>
+</resume>
