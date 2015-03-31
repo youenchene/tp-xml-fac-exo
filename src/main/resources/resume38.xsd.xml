@@ -1,0 +1,20 @@
+<test:resume xmlns:test="http://test-tp">
+  <test:lastname>string</test:lastname>
+  <test:firstname>string</test:firstname>
+  <test:tongue>
+    <test:name>string</test:name>
+    <test:skill>100</test:skill>
+  </test:tongue>
+  <test:tongue2 att1="string" att2="string">
+    <test:name>string</test:name>
+    <test:skill>100</test:skill>
+  </test:tongue2>
+  <test:school>
+    <test:name>string</test:name>
+    <test:year>100</test:year>
+  </test:school>
+  <test:xp>
+    <test:company>string</test:company>
+    <test:role>string</test:role>
+  </test:xp>
+</test:resume>
